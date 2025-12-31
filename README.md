@@ -14,6 +14,10 @@ This project helped me practice basic game logic, user interaction, and working 
 A simple digital clock application built using Python and Tkinter.  
 This project displays the current time and date, updating every second in real time. It helped me understand GUI components, event scheduling, and time handling in Python.
 
+### 3. Rock Paper Scissors ✊📄✂️
+A simple Rock Paper Scissors game built using Python and Tkinter.  
+This project allows a user to play against the computer, keeps track of scores, and displays results through a graphical interface. It helped me practice game logic, randomization, and event-driven programming with Python GUIs.
+
 
 > More Python projects will be added below as I continue learning and experimenting.
 
