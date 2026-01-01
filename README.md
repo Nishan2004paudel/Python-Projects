@@ -22,6 +22,11 @@ This project allows a user to play against the computer, keeps track of scores, 
 A simple console-based coffee ordering system built using Python and object-oriented programming (OOP) principles.  
 This project allows users to select coffee items from a menu, view their order, calculate the total price, and proceed to checkout. It helped me practice class design, object interaction, and basic user input handling in Python.
 
+### 5. Calculator 🧮
+A simple calculator application built using Python and Tkinter.  
+This project performs basic arithmetic operations through a graphical user interface. It helped me understand GUI layout design, event handling, and evaluating expressions dynamically in Python.
+
+
 > More Python projects will be added below as I continue learning and experimenting.
 
 ---
