@@ -18,6 +18,9 @@ This project displays the current time and date, updating every second in real t
 A simple Rock Paper Scissors game built using Python and Tkinter.  
 This project allows a user to play against the computer, keeps track of scores, and displays results through a graphical interface. It helped me practice game logic, randomization, and event-driven programming with Python GUIs.
 
+### 4. Coffee Ordering System ☕
+A simple console-based coffee ordering system built using Python and object-oriented programming (OOP) principles.  
+This project allows users to select coffee items from a menu, view their order, calculate the total price, and proceed to checkout. It helped me practice class design, object interaction, and basic user input handling in Python.
 
 > More Python projects will be added below as I continue learning and experimenting.
 
