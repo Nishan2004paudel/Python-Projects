@@ -26,6 +26,10 @@ This project allows users to select coffee items from a menu, view their order, 
 A simple calculator application built using Python and Tkinter.  
 This project performs basic arithmetic operations through a graphical user interface. It helped me understand GUI layout design, event handling, and evaluating expressions dynamically in Python.
 
+### 6. Notepad 📝
+A simple Notepad application built using Python and Tkinter.  
+This project allows users to create, open, and save text files through a graphical interface. It helped me understand file handling, dialog boxes, and building basic text-editing applications using Python.
+
 
 > More Python projects will be added below as I continue learning and experimenting.
 
