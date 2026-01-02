@@ -34,6 +34,11 @@ This project allows users to create, open, and save text files through a graphic
 A simple image viewer application built using Python, Tkinter, and PIL.  
 This project allows users to select and display image files through a graphical interface. It helped me understand file dialogs, image handling, and integrating external libraries with Tkinter.
 
+### 8. Rent Calculator 🏠
+A simple Python program that calculates and splits total living expenses among multiple people.  
+This project considers rent, food expenses, electricity usage, and per-unit electricity charges to determine how much each person should pay. It helped me practice input handling, basic calculations, and logical flow in Python.
+
+
 
 > More Python projects will be added below as I continue learning and experimenting.
 
