@@ -30,6 +30,10 @@ This project performs basic arithmetic operations through a graphical user inter
 A simple Notepad application built using Python and Tkinter.  
 This project allows users to create, open, and save text files through a graphical interface. It helped me understand file handling, dialog boxes, and building basic text-editing applications using Python.
 
+### 7. Image Viewer 🖼️
+A simple image viewer application built using Python, Tkinter, and PIL.  
+This project allows users to select and display image files through a graphical interface. It helped me understand file dialogs, image handling, and integrating external libraries with Tkinter.
+
 
 > More Python projects will be added below as I continue learning and experimenting.
 
