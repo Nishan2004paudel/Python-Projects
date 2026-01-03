@@ -50,6 +50,10 @@ This project uses the `qrcode` library to create and save QR codes as image file
 A simple interactive dashboard built using Python and Dash.  
 This project displays bar and line charts on a web-based dashboard, helping me understand data visualization, layout components, and building interactive web applications with Dash.
 
+### 12. Typing Speed Test ⌨️
+A simple Python program that measures typing speed and accuracy.  
+This project calculates the time taken, words per minute (WPM), and number of typing errors by comparing user input with a given prompt. It helped me practice string manipulation, time measurement, and basic performance evaluation logic in Python.
+
 
 
 > More Python projects will be added below as I continue learning and experimenting.
