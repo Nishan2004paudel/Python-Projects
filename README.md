@@ -38,9 +38,13 @@ This project allows users to select and display image files through a graphical 
 A simple Python program that calculates and splits total living expenses among multiple people.  
 This project considers rent, food expenses, electricity usage, and per-unit electricity charges to determine how much each person should pay. It helped me practice input handling, basic calculations, and logical flow in Python.
 
-### 9. Task Management App ✅
+### 9. To Do App ✅
 A simple command-line task management application built using Python.  
 This project allows users to add, update, delete, and view tasks interactively. It helped me practice list operations, conditional logic, loops, and building menu-driven programs in Python.
+
+### 10. QR Code Generator 🔳
+A simple Python program that generates a QR code from a user-provided URL.  
+This project uses the `qrcode` library to create and save QR codes as image files. It helped me understand working with external libraries, handling user input, and generating files programmatically in Python.
 
 
 > More Python projects will be added below as I continue learning and experimenting.
