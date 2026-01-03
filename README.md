@@ -54,6 +54,9 @@ This project displays bar and line charts on a web-based dashboard, helping me u
 A simple Python program that measures typing speed and accuracy.  
 This project calculates the time taken, words per minute (WPM), and number of typing errors by comparing user input with a given prompt. It helped me practice string manipulation, time measurement, and basic performance evaluation logic in Python.
 
+### 13. Voting System Simulation 🗳️
+A simple command-line voting system built using Python.  
+This project simulates an election process where voters cast votes for two nominees using voter IDs. It calculates total votes, voting percentages, and declares the winner. It helped me practice loops, conditionals, list manipulation, and basic simulation logic in Python.
 
 
 > More Python projects will be added below as I continue learning and experimenting.
