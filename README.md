@@ -46,6 +46,11 @@ This project allows users to add, update, delete, and view tasks interactively. 
 A simple Python program that generates a QR code from a user-provided URL.  
 This project uses the `qrcode` library to create and save QR codes as image files. It helped me understand working with external libraries, handling user input, and generating files programmatically in Python.
 
+### 11. Interactive Dashboard 📊
+A simple interactive dashboard built using Python and Dash.  
+This project displays bar and line charts on a web-based dashboard, helping me understand data visualization, layout components, and building interactive web applications with Dash.
+
+
 
 > More Python projects will be added below as I continue learning and experimenting.
 
