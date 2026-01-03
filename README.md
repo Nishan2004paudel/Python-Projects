@@ -58,6 +58,9 @@ This project calculates the time taken, words per minute (WPM), and number of ty
 A simple command-line voting system built using Python.  
 This project simulates an election process where voters cast votes for two nominees using voter IDs. It calculates total votes, voting percentages, and declares the winner. It helped me practice loops, conditionals, list manipulation, and basic simulation logic in Python.
 
+### 14. Pencil Sketch Image Converter ✏️
+A Python program that converts a color image into a pencil sketch effect.  
+This project uses NumPy, ImageIO, SciPy, and OpenCV to process images through grayscale conversion, inversion, blurring, and blending techniques. It helped me understand basic image processing concepts and working with multiple scientific Python libraries.
 
 > More Python projects will be added below as I continue learning and experimenting.
 
