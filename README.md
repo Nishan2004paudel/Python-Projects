@@ -62,6 +62,11 @@ This project simulates an election process where voters cast votes for two nomin
 A Python program that converts a color image into a pencil sketch effect.  
 This project uses NumPy, ImageIO, SciPy, and OpenCV to process images through grayscale conversion, inversion, blurring, and blending techniques. It helped me understand basic image processing concepts and working with multiple scientific Python libraries.
 
+### 15. Screenshot Tool 📸
+A simple screenshot capture application built using Python and Tkinter.  
+This project allows users to take a screenshot of the screen and save it as an image file. It helped me understand GUI interactions, file dialogs, and using external libraries for screen capture in Python.
+
+
 > More Python projects will be added below as I continue learning and experimenting.
 
 ---
