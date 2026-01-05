@@ -70,6 +70,9 @@ This project allows users to take a screenshot of the screen and save it as an i
 A classic Snake game built using Python and Tkinter.  
 This project features real-time movement, food generation, score tracking, collision detection, and game restart functionality. It helped me practice event handling, game loops, object-oriented design, and GUI-based game development in Python.
 
+### 17. Spelling Checker 🔤
+A simple spelling checker application built using Python, Tkinter, and TextBlob.  
+This project takes user input, checks spelling mistakes, and displays the corrected text through a graphical interface. It helped me understand natural language processing basics and integrating external libraries with Python GUIs.
 
 > More Python projects will be added below as I continue learning and experimenting.
 
