@@ -66,6 +66,10 @@ This project uses NumPy, ImageIO, SciPy, and OpenCV to process images through gr
 A simple screenshot capture application built using Python and Tkinter.  
 This project allows users to take a screenshot of the screen and save it as an image file. It helped me understand GUI interactions, file dialogs, and using external libraries for screen capture in Python.
 
+### 16. Snake Game 🐍
+A classic Snake game built using Python and Tkinter.  
+This project features real-time movement, food generation, score tracking, collision detection, and game restart functionality. It helped me practice event handling, game loops, object-oriented design, and GUI-based game development in Python.
+
 
 > More Python projects will be added below as I continue learning and experimenting.
 
