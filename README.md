@@ -90,6 +90,9 @@ This project presents multiple-choice questions, checks user answers, and calcul
 A classic two-player Pong game built using Python and the Turtle graphics module.  
 This project features paddle controls, ball movement, collision detection, real-time scoring, and window event handling. It helped me practice game loops, keyboard events, collision logic, and interactive graphics using Python.
 
+### 22. Number Guessing Game 🎯
+A simple command-line number guessing game built using Python.  
+In this project, the computer randomly selects a number and the user tries to guess it with feedback after each attempt. It helped me practice loops, conditionals, input validation, and random number generation in Python.
 
 
 > More Python projects will be added below as I continue learning and experimenting.
