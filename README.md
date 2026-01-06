@@ -98,6 +98,11 @@ In this project, the computer randomly selects a number and the user tries to gu
 A simple command-line word ladder game built using Python.  
 This project challenges the user to transform one word into another by changing one letter at a time while maintaining valid moves. It helped me practice string comparison, validation logic, and interactive game design in Python.
 
+### 24. Fun Fact Generator 🌟
+A simple web-based fun fact generator built using Python and PyWebIO.  
+This project fetches random fun facts from a public API and displays them interactively on a web interface. It helped me practice working with APIs, JSON data, HTTP requests, and building lightweight web applications using Python.
+
+
 > More Python projects will be added below as I continue learning and experimenting.
 
 ---
