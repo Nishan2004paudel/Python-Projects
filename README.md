@@ -94,6 +94,9 @@ This project features paddle controls, ball movement, collision detection, real-
 A simple command-line number guessing game built using Python.  
 In this project, the computer randomly selects a number and the user tries to guess it with feedback after each attempt. It helped me practice loops, conditionals, input validation, and random number generation in Python.
 
+### 23. Word Ladder Game 🔤
+A simple command-line word ladder game built using Python.  
+This project challenges the user to transform one word into another by changing one letter at a time while maintaining valid moves. It helped me practice string comparison, validation logic, and interactive game design in Python.
 
 > More Python projects will be added below as I continue learning and experimenting.
 
