@@ -86,6 +86,12 @@ This project uses basic drawing commands, shapes, and coordinates to create a vi
 A simple command-line quiz game built using Python.  
 This project presents multiple-choice questions, checks user answers, and calculates the final score. It helped me practice loops, conditionals, lists/tuples, and basic user interaction in Python.
 
+### 21. Pong Game 🏓
+A classic two-player Pong game built using Python and the Turtle graphics module.  
+This project features paddle controls, ball movement, collision detection, real-time scoring, and window event handling. It helped me practice game loops, keyboard events, collision logic, and interactive graphics using Python.
+
+
+
 > More Python projects will be added below as I continue learning and experimenting.
 
 ---
