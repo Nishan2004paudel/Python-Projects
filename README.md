@@ -102,6 +102,10 @@ This project challenges the user to transform one word into another by changing 
 A simple web-based fun fact generator built using Python and PyWebIO.  
 This project fetches random fun facts from a public API and displays them interactively on a web interface. It helped me practice working with APIs, JSON data, HTTP requests, and building lightweight web applications using Python.
 
+### 25. Word Guessing Game (Fruit Edition) 🍎
+A simple command-line word guessing game built using Python.  
+In this project, the player guesses letters to identify a hidden fruit name within a limited number of chances. It helped me practice loops, conditional logic, string handling, and using collections like `Counter` in Python.
+
 
 > More Python projects will be added below as I continue learning and experimenting.
 
