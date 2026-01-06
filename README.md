@@ -74,6 +74,11 @@ This project features real-time movement, food generation, score tracking, colli
 A simple spelling checker application built using Python, Tkinter, and TextBlob.  
 This project takes user input, checks spelling mistakes, and displays the corrected text through a graphical interface. It helped me understand natural language processing basics and integrating external libraries with Python GUIs.
 
+### 18. Text to Speech Converter 🔊
+A Python program that converts text from a file into spoken audio.  
+This project uses the gTTS (Google Text-to-Speech) library to generate an audio file from text and play it. It helped me understand working with external libraries, file handling, and basic text-to-speech functionality in Python.
+
+
 > More Python projects will be added below as I continue learning and experimenting.
 
 ---
