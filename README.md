@@ -78,6 +78,10 @@ This project takes user input, checks spelling mistakes, and displays the correc
 A Python program that converts text from a file into spoken audio.  
 This project uses the gTTS (Google Text-to-Speech) library to generate an audio file from text and play it. It helped me understand working with external libraries, file handling, and basic text-to-speech functionality in Python.
 
+### 19. Emoji Face Drawing 😊
+A simple Python program that draws an emoji-style face using the Turtle graphics module.  
+This project uses basic drawing commands, shapes, and coordinates to create a visual emoji. It helped me understand graphical drawing, coordinate systems, and creative programming with Python.
+
 
 > More Python projects will be added below as I continue learning and experimenting.
 
